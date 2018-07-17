@@ -1,0 +1,2 @@
+# springboot-baiduOcr-structurization
+集成springboot,使用百度的通用票据识别SDK对电费收据进行Ocr处理，然后再进行结构化处理
