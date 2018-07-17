@@ -1,0 +1,48 @@
+{
+  "log_id": 2661573626,
+  "words_result": [
+    {
+      "location": {
+        "left": 10,
+        "top": 3,
+        "width": 121,
+        "height": 24
+      },
+      "words": "姓名:小明明",
+      "chars": [
+        {
+          "location": {
+            "left": 16,
+            "top": 6,
+            "width": 17,
+            "height": 20
+          },
+          "char": "姓"
+        }
+        ...
+      ]
+    },
+    {
+      "location": {
+        "left": 212,
+        "top": 3,
+        "width": 738,
+        "height": 24
+      },
+      "words": "卡号/病案号:105353990标本编号:150139071送检科室:血液透析门诊病房",
+      "chars": [
+        {
+          "location": {
+            "left": 218,
+            "top": 6,
+            "width": 18,
+            "height": 21
+          },
+          "char": "卡"
+        }
+        ...
+      ]
+    }
+  ],
+  "words_result_num": 2
+}

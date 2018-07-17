@@ -1,0 +1,7 @@
+server:
+  port: 80
+baidu:
+  ocr:
+    appId: your appId
+    apiKey: your apiKey
+    secretKey: your secretKey
